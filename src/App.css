@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: url('https://media.istockphoto.com/id/1175053786/photo/empty-dark-blue-with-black-vignette-studio-well-use-as-background.webp?b=1&s=170667a&w=0&k=20&c=9nhEI3-wIOd3x6nWXP-jcC5Rybfr52YDU_dI2QScNoE=') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
